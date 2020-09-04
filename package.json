@@ -39,7 +39,7 @@
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3",
     "slug": "^1.1.0",
-    "type-graphql": "^0.17.5",
+    "type-graphql": "^0.17.6",
     "typeorm": "^0.2.19"
   },
   "devDependencies": {
